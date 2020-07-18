@@ -1,0 +1,35 @@
+---
+title: "Chequeo (minutos contra la desinformación)"
+author: "Grupo de Investigación Suma Yuyai"
+date: "7/17/2020"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    theme: "spacelab"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Desinformación y medios
+
+El neologismo posverdad fue aceptado con bombos y platillos por la XXX en 2018. No era para menos. La manipulación de información ligada al campo político en países como Inglaterra, Estados Unidos y Colombia había encendido ya las alarmas de científicos sociales y periodistas ante el peligro del fenómeno para la salud de los sistemas sociales. A las viejas formas engañosas la tecnología les dio un nuevo ropaje que nutre su presencia en las redes electrónicas.
+
+La desinformación se configura hoy, por lo tanto, en un fenómeno exacerbado gracias a la evolución tecnológica, económica y social de las últimas décadas. Los medios actuales rebasan en cantidad y calidad a aquellos desarrollados especialmente durante el siglo XX, pero el florecimiento de los casos de manipulación informativa está al orden del día en un planeta que consiguió estructurarse como una aldea global, electrónicamente conectada.
+
+Ante tal problemática vienen desarrollándose, desde la década pasada especialmente, proyectos de verificación y chequeo de la información que circula masivamente por internet. Trátese de asuntos políticos, económicos, sociales, sanitarios o de cualquier otra índole, los daños que causan las informaciones malintencionadas pueden llegar a ser fatales. Por esto, en el ecosistema mediático actual, es necesario que los medios que sirven realmente a las democracias produzcan mensajes que busquen menguar tales daños. 
+
+### *Misinformation* y *disinfomation*
+
+Existen dos palabras en inglés para denominar el fenómeno que en español se conoce como desinformación: *misinformation* y *disinfomartion*. La primera refiere el fenómeno de modo general, incluyendo la tergiversación involuntaria de la información, en tanto la segunda implica una manipulación deliberada que busca hacer daño. 
+
+Reconocer ese tipo de distinciones es una exigencia imprescindible para las ciudadanías actuales y todavía más para los profesinales de la comunicación y el periodismo. Ciertamente la alfabetización informacional es una competencia esencial en la sociedad contemporánea. No obstante, existen condicionantes que obstaculizan la consecución plena de una sociedad mejor informada. Estos condicionantes abarcan un amplio abánico que alcanza dimensiones psicosociales, económicas, políticas, por hablar solo de las más destacadas.
+
+### Un proyecto colectivo y colaborativo
+
+Como el proyecto en cuestión representa una tarea inmensa se invita a todas las personas interesadas para que contribuyan en su desarrollo. Con este fin se creó un repositorio público en GitHub el cual puede ser accesado en la siguiente dirección electrónica: <https://github.com/investiga/chequeo>. Desde esta dirección se puede descargar el código fuente del proyecto y comenzar así a participar en su construcción. 
+
+La idea es realizar por lo menos un chequeo semanal y, según vaya creciendo la inicitiva aquí esbozada, diario u horario. Los chequeos se enfocarán en la relevancia, importancia y actualidad de los mensajes sindicados de desinformación.
